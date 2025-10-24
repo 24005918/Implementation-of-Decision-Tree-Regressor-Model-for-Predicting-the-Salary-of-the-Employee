@@ -94,12 +94,16 @@ plt.show()
 ## Output:
 ![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497405/964c85c1-4627-45c1-b905-0f77c3c3b12d)
 
+
 ![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497405/b9d39342-e915-4ebd-906d-c7910f9bb566)
 
 
 ![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497405/ddede0b2-c6d0-4630-bd54-16dac56a3b01)
 
+
 ![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497405/5cb9db1a-7819-42c7-be62-d137d6209c8c)
+
+
 ![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497405/acbff202-598d-4d01-a02f-7a7fb45741a0)
 
 ## Result:
